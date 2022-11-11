@@ -1,0 +1,19 @@
+{
+  "name": "tim-set",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tunght1994/tim-set.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tunght1994/tim-set/issues"
+  },
+  "homepage": "https://github.com/tunght1994/tim-set#readme"
+}
